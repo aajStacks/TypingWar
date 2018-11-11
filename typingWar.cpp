@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : TypeThis.cpp
+// Name        : TypingWar.cpp
 // Author      : Mohammed Hossain
 // Version     : Final;GoodToSubmit
 // Copyright   : Your copyright notice
